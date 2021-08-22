@@ -49,6 +49,10 @@
 * ### Pull Push
 
   ```shell
+  >git clone <URL>
+  >cd <namerepo>
+  >git push master origin
+  >git pull origin master
   ```
 
   
